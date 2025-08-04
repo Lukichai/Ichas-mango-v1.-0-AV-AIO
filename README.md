@@ -40,4 +40,4 @@ Anime vanguard all in one macro is an automation program service that use hotkey
 3. F7 to run Discord Bot
 
 ## SUPPORT
-- [Discord](https://www.discord.gg/salmon)
+- [Discord](https://discord.gg/9BGTvnWn9u)
